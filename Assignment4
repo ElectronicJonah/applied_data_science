@@ -74,7 +74,7 @@ datasummary
 
 ```
 **Designated place**: 
-
+This table shows that countries with 0 revolutions have a higher mean and median in growth, then that that of the countries with more than 0 revolutions
 
 ### Part 3: Make a table summarizing reressions using modelsummary and kable
 
